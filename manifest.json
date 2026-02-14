@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "release_date": "2026-02-14",
+    "download_url": "https://github.com/YOUR_USERNAME/ShadeybaneClient/releases/download/v1.0.0/Shadeybane-v1.0.0.zip",
+    "checksum": "REPLACE_WITH_SHA256_HASH",
+    "changelog": [
+        "🎮 Initial release of Shadeybane client",
+        "⚡ Pre-configured for Shadeybane server (45.63.65.82:6000)",
+        "📈 Enhanced rates: 4x normal zones, 8x hot zones, 2x production",
+        "🚀 Includes auto-updating launcher",
+        "✨ Welcome message: 'Welcome to Shadeybane!'"
+    ]
+}

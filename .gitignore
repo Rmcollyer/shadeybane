@@ -1,0 +1,32 @@
+# Build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+# Patcher source (source code is in separate repo)
+Patcher/
+
+# Patcher exe (too large for GitHub, distributed separately)
+ShadeybaneUpe.exe
+
+# Logs and temporary files
+*.log
+*.tmp
+Logs/
+cache/
+verscache/
+
+# User-specific files
+*.bak
+backup_*/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Don't ignore essential config
+!Config/ArcaneIP.cfg
+!version.txt
