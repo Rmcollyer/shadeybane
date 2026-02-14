@@ -1,8 +1,8 @@
 {
     "version": "1.0.0",
     "release_date": "2026-02-14",
-    "download_url": "https://github.com/Rmcollyer/shadeybane/releases/download/v1.0.0/Shadeybane-v1.0.0.zip",
-    "checksum": "8BB78AB9E2FC82DDF1543B764D0AD74258B867B20E74F5F90E27C5D21B6DAF95",
+    "download_url": "https://github.com/Rmcollyer/shadeybane/releases/download/v1.0.0/Shadeybane.zip",
+    "checksum": "B20804CAD3B0D7DB24909C4675B6E86419E83FFB83B60EA55A59933597E33364",
     "changelog": [
         "🎮 Initial release of Shadeybane client",
         "⚡ Pre-configured for Shadeybane server (45.63.65.82:6000)",
