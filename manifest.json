@@ -2,9 +2,9 @@
     "version": "1.0.0",
     "release_date": "2026-02-15",
     "base_game_url": "https://github.com/Rmcollyer/shadeybane/releases/download/V1.0.0/Shadeybane_Release.zip",
-    "base_game_checksum": "35E72321D6E768E0F445FF0693E8684E51017F118682D17ED841F9E6E20D2809",
+    "base_game_checksum": "C71C5C306B0B221AE76225DDD6F171340DAF3A1FB83D8FC81D4E829636B63AF4",
     "download_url": "https://github.com/Rmcollyer/shadeybane/releases/download/V1.0.0/Patcher.zip",
-    "checksum": "PATCHER_CHECKSUM_HERE",
+    "checksum": "443FFB7B68CE5078C6B3E92044B27FBB5F622A1914B5429EA7840A8B84907D4F",
     "changelog": [
         "🎮 Shadeybane 10X Enhanced Rates",
         "⚡ Pre-configured for Shadeybane server (45.63.65.82:6000)",
